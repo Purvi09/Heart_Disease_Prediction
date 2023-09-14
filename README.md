@@ -1,0 +1,2 @@
+# Heart_Disease_Prediction
+Preventing heart diseases is crucial, and data-driven systems using Machine Learning play a vital role in prediction. I analyzed a heart disease patient dataset, processed the data, and employed various ML algorithms like Logistic Regression, Naive Bayes, SVM, KNN, Decision Tree, Random Forest, XGBoost, and an Artificial Neural Network. The goal was binary classification – predicting the presence of heart disease. The highest accuracy achieved was 95% with Random Forest.
